@@ -35,7 +35,7 @@ Run the program
 
 ## Feedback
 
-If you have any feedback, please reach out to me at shahdishank24@gmail.com
+If you have any feedback, please reach out to me at kunj2906@gmail.com
 
 
 ## Tech Stack
@@ -47,5 +47,5 @@ If you have any feedback, please reach out to me at shahdishank24@gmail.com
 
 ## Author
 
-- [@shahdishank](https://github.com/ShahDishank)
+- [@kp290603](https://github.com/kp290603)
 
